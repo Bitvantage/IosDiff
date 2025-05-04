@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IosDiff": {
+        "commandName": "Project",
+        "commandLineArgs":  "patch c:\\temp\\f1.txt c:\\temp\\f2.txt"
+    }
+  }
+}
